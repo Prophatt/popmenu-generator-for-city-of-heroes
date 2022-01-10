@@ -1,0 +1,14 @@
+C:\Users\me\Documents\Visual Studio 2010\Projects\menutest\menutest\bin\Debug\menutest.exe
+C:\Users\me\Documents\Visual Studio 2010\Projects\menutest\menutest\bin\Debug\menutest.pdb
+C:\Users\me\Documents\Visual Studio 2010\Projects\menutest\menutest\bin\Debug\menutest.xml
+C:\Users\me\Documents\Visual Studio 2010\Projects\menutest\menutest\obj\x86\Debug\menutest.Badge_Control.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\menutest\menutest\obj\x86\Debug\menutest.Command_Control.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\menutest\menutest\obj\x86\Debug\menutest.edit_item.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\menutest\menutest\obj\x86\Debug\menutest.help_about.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\menutest\menutest\obj\x86\Debug\menutest.Form1.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\menutest\menutest\obj\x86\Debug\menutest.Resources.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\menutest\menutest\obj\x86\Debug\menutest.Preview_Strip.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\menutest\menutest\obj\x86\Debug\Popmenu_Generator.vbproj.GenerateResource.Cache
+C:\Users\me\Documents\Visual Studio 2010\Projects\menutest\menutest\obj\x86\Debug\menutest.exe
+C:\Users\me\Documents\Visual Studio 2010\Projects\menutest\menutest\obj\x86\Debug\menutest.xml
+C:\Users\me\Documents\Visual Studio 2010\Projects\menutest\menutest\obj\x86\Debug\menutest.pdb

@@ -1,0 +1,31 @@
+---- Quickly Getting Started----
+1. Enter a Menu Name
+2. Written By and Version Number are optional
+3. Select a Item Option
+	*These are what tell the generator hwo to export the Item you have saved.
+	* Title Option - A slightly Larger Font
+	* Command Item - This is where things like powexec go to execute commands in game
+	*Info Display - Just a text entry for your menu
+	*Menu Item - Lets the generator know this Item has child items that can be accessed.
+	*Light Up Badge - This handles a menu entry that will darkened if your character does not have the badge associated with it. Display Text field is what shows up in game popmenu. So display text could say "I got Atlas Exploration Badge" and it would be dim colored until you got the badge then it turns normal popmenu color.
+
+4. Fill out command text box if needed. This is where you type the actual command you want to execute in game. This is also where the badge reference shows up when creating a light up badge entry and will remain uneditable in that mode.
+
+5. Badge drop down box, a easy way to select the badge you want to have be light up.
+
+6. Save Item to Menu - this adds the item to your menu, it adds to the base unless you select a menu item to add to.
+
+7. Add Divider - The divider is a little graphic you can add to your menus to split things into sections.
+
+8. Remove Item From Menu - This allows you to select an item and remove it. 
+
+9. Clear entire Tree - is simply a full reset button
+
+10. Load - Loads a saved menu
+
+11. Save - Saves you current menu to a file. This file will be used to export a game file so city can read your popmenu.
+
+12. Export to game file - this created the .mnu file that city uses for popmenus from a save file of your choosing.
+
+
+13. Right Click an Item to Edit only that Item - useful if you mess up your command or want to rename something in the menu.

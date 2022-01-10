@@ -1,0 +1,57 @@
+﻿// Teletransportals.mnu
+// Written By Profit
+// Version !
+//
+
+Menu "Teletransportals"
+{
+Title "Choose your destination"
+Menu"Base TP" {
+Option"&Base Teleporter" <&PowExecName Base Transporter&>
+Option"&Day Job" <&PowExecName Base Teleporter&>
+}
+Divider
+Option"&Mission Transporter" <&PowExecName Mission Transporter&>
+Option"&Assemble the Team" <&PowExecName Assemble the Team&>
+Option"&Team Transporter" <&PowExecName Team Transporter&>
+Divider
+Option"&Ouroboros Portal" <&PowExecName Ouroboros Portal&>
+Menu"Blue Side - AP-TI-IP-FF-PI" {
+Title "Red Side Outlets"
+Option"Cap au Diablo"
+Option"Nerva"
+Option"St Martial"
+Option"Grandville"
+}
+Divider
+Option"Pocket D &VIP Pass" <&PowExecName Pocket D VIP Pass&>
+Menu"Blue Side - KR-FL-TI-FF" {
+Title "Red Side Outlets"
+Option"Port Oakes"
+Option"Sharkhead"
+Option"St Martial"
+Divider
+Title "Praetorians"
+Option"Imperial City"
+}
+Divider
+Menu"Wentworths" {
+Menu"Blue Side" {
+Option"&Purchased" <&PowExecName Consignment House Transporter&>
+Option"&Day Job" <&&>
+Option"&Enhanced Day Job" <&&>
+}
+Option"AP-KR-SC-TI-KW"
+Divider
+Menu"Red Side" {
+Option"&Purchased" <&PowExecName Black Market Transporter&>
+Option"&Day Job" <&PowExecName Marketeer's Teleporter&>
+Option"&Enhanced Day Job" <&PowExecName Accelerated Marketeer's Teleporter&>
+Option"CapD-Mercy-Oakes-Shark-StMartial"
+Divider
+}
+Menu"Gold Side" {
+Option"&Imperial City" <&PowExecName Trading House Transporter&>
+Option"&Underground Imperial" <&PowExecName Underground Transporter&>
+}
+}
